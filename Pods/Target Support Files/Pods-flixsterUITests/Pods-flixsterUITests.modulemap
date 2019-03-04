@@ -1,0 +1,6 @@
+framework module Pods_flixsterUITests {
+  umbrella header "Pods-flixsterUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
